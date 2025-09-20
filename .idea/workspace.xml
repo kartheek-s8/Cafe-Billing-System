@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9780324e-9bdf-4589-9a5d-c69462073ebe" name="Changes" comment="create files required for project">
-      <change afterPath="$PROJECT_DIR$/sql/schema.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/seed.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/billing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/orders.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9780324e-9bdf-4589-9a5d-c69462073ebe" name="Changes" comment="create files required for project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
