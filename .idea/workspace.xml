@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9780324e-9bdf-4589-9a5d-c69462073ebe" name="Changes" comment="create files required for project">
-      <change afterPath="$PROJECT_DIR$/guide and tutorial/code_structure.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9780324e-9bdf-4589-9a5d-c69462073ebe" name="Changes" comment="&quot;creating guide and tutorial directory for making it ez for ppl to understand the program&quot;">
+      <change afterPath="$PROJECT_DIR$/guide and tutorial/steps_before_u_start_coding.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758349064425</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="&quot;creating guide and tutorial directory for making it ez for ppl to understand the program&quot;">
+      <option name="closed" value="true" />
+      <created>1758350419362</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1758350419362</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,6 +134,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;Add requirements.txt and initial setup" />
     <MESSAGE value="create files required for project" />
-    <option name="LAST_COMMIT_MESSAGE" value="create files required for project" />
+    <MESSAGE value="&quot;creating guide and tutorial directory for making it ez for ppl to understand the program&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;creating guide and tutorial directory for making it ez for ppl to understand the program&quot;" />
   </component>
 </project>
