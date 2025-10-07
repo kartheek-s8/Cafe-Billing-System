@@ -1,7 +1,7 @@
 -- Reset auto-increment counter
 ALTER TABLE MenuItem AUTO_INCREMENT = 1;
 
--- Insert Italian cafe menu items
+-- Insert cafe menu items
 INSERT INTO MenuItem (name, price, category) VALUES
 ('Truffle Garlic Bread', 220.00, 'Appetizers'),
 ('Caprese Skewers', 240.00, 'Appetizers'),
