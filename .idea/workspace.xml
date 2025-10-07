@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9780324e-9bdf-4589-9a5d-c69462073ebe" name="Changes" comment="&quot;creating guide and tutorial directory for making it ez for ppl to understand the program&quot;">
-      <change afterPath="$PROJECT_DIR$/guide and tutorial/steps_before_u_start_coding.md" afterDir="false" />
+    <list default="true" id="9780324e-9bdf-4589-9a5d-c69462073ebe" name="Changes" comment="&quot;creating a beginners guide and steps to follow before they can stat coding&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sql/schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/seed.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sql/seed.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/billing.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/billing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/db.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/db.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/orders.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/orders.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +51,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;Python.db.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
@@ -54,6 +61,35 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="db" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Cafe-Billing-System" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/db.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.db" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -117,7 +153,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758350419362</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="&quot;creating a beginners guide and steps to follow before they can stat coding&quot;">
+      <option name="closed" value="true" />
+      <created>1758350823899</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1758350823899</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,6 +179,7 @@
     <MESSAGE value="&quot;Add requirements.txt and initial setup" />
     <MESSAGE value="create files required for project" />
     <MESSAGE value="&quot;creating guide and tutorial directory for making it ez for ppl to understand the program&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;creating guide and tutorial directory for making it ez for ppl to understand the program&quot;" />
+    <MESSAGE value="&quot;creating a beginners guide and steps to follow before they can stat coding&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;creating a beginners guide and steps to follow before they can stat coding&quot;" />
   </component>
 </project>
